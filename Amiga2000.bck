@@ -1,0 +1,196 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V_USER
+D Power symbol creates a global label with name "+12V_USER"
+K power-flag
+$ENDCMP
+#
+$CMP +5V_USER
+D Power symbol creates a global label with name "+5V_USER"
+K power-flag
+$ENDCMP
+#
+$CMP +AUD
+D Power symbol creates a global label with name "+AUD"
+K power-flag
+$ENDCMP
+#
+$CMP +AV
+D Power symbol creates a global label with name "+AV"
+K power-flag
+$ENDCMP
+#
+$CMP -12V_USER
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP -5V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP -AV
+D Power symbol creates a global label with name "-AV"
+K power-flag
+$ENDCMP
+#
+$CMP 1488
+D Quad Line EIA-232D
+F https://www.onsemi.com/pub/Collateral/MC1489-D.PDF
+$ENDCMP
+#
+$CMP 1489
+D Quad Line EIA-232D
+F https://www.onsemi.com/pub/Collateral/MC1489-D.PDF
+$ENDCMP
+#
+$CMP 74ALS245
+D Octal BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F http://www.ti.com/lit/gpn/sn74LS245
+$ENDCMP
+#
+$CMP 74F08
+D Quad And2
+K TTL and2
+F http://www.ti.com/lit/gpn/sn74LS08
+$ENDCMP
+#
+$CMP 74F244
+D Octal Buffers/Line Drivers with 3-STATE Outputs
+$ENDCMP
+#
+$CMP 74F245
+D Octal Transceiver (3 State)
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3-State outputs
+K HCMOS BUS 3State
+F http://www.ti.com/lit/gpn/sn74HC245
+$ENDCMP
+#
+$CMP 74HC245_copy
+D Octal BUS Transceivers, 3-State outputs
+K HCMOS BUS 3State
+F http://www.ti.com/lit/gpn/sn74HC245
+$ENDCMP
+#
+$CMP 74LS09
+D Quad 2-input AND Open Collect
+K TTL and2 OpenCol
+F http://www.ti.com/lit/gpn/sn74LS09
+$ENDCMP
+#
+$CMP 74LS157
+D Quad 2 to 1 line Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/gpn/sn74LS157
+$ENDCMP
+#
+$CMP 74LS245
+D Octal BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F http://www.ti.com/lit/gpn/sn74LS245
+$ENDCMP
+#
+$CMP 74LS373
+D Octal D-Type Transparent Latch
+$ENDCMP
+#
+$CMP 8520
+D Amiga CIA
+$ENDCMP
+#
+$CMP AUDIO
+D Power symbol creates a global label with name "AUDIO" , reference supply ground
+K power-flag
+$ENDCMP
+#
+$CMP DB23_Female
+D 23-pin Female D-SUB connector
+K female D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP DB23_Male
+D 23-pin Male D-SUB connector
+K Male D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP DB25_Female
+D 25-pin FEmale D-SUB connector
+K FEmale D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP DB25_Male
+D 25-pin male D-SUB connector
+K male D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP DB9_Male
+D 9-pin male D-SUB connector
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DIN-5
+D 5-pin DIN connector
+K circular DIN connector
+F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
+$CMP EMI_Filter
+D EMI Filter
+$ENDCMP
+#
+$CMP LF347
+D Wide Bandwidth Quad JFET Input Operational Amplifier
+$ENDCMP
+#
+$CMP LM339
+D Quad Differential Comparators, SOIC-14/TSSOP-14
+K quad comparator
+F https://www.st.com/resource/en/datasheet/lm139.pdf
+$ENDCMP
+#
+$CMP LMV339
+D Quad General-Purpose Low-Voltage Comparator, SOIC-14/TSSOP-14
+K quad comparator
+F https://www.st.com/resource/en/datasheet/lmv331.pdf
+$ENDCMP
+#
+$CMP MC68000
+D Motorla 68000 CPU
+$ENDCMP
+#
+$CMP MPF102
+D N-JFET transistor, source/gate/drain
+K transistor NJFET N-JFET
+F ~
+$ENDCMP
+#
+$CMP PST518B
+D For System Resetting System Monolithic IC
+$ENDCMP
+#
+$CMP Paula
+D Amiga Audio chip
+$ENDCMP
+#
+$CMP RCA_Jack
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+F  ~
+$ENDCMP
+#
+$CMP Vref
+D Power symbol creates a global label with name "Vref"
+K power-flag
+$ENDCMP
+#
+#End Doc Library

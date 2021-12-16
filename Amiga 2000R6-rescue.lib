@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# +5V-Amiga_3000_library
+#
+DEF +5V-Amiga_3000_library #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V-Amiga_3000_library" 0 215 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 125 25 0 1 0 N
+P 2 0 1 0 0 0 0 100 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V_USER-Amiga_3000_library
+#
+DEF +5V_USER-Amiga_3000_library #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V_USER-Amiga_3000_library" 0 215 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 125 25 0 1 0 N
+P 2 0 1 0 0 0 0 100 N
+X +5V_USER 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +VID-Amiga_3000_library
+#
+DEF +VID-Amiga_3000_library #PWR 0 0 N N 1 F P
+F0 "#PWR" 0 150 50 H I C CNN
+F1 "+VID-Amiga_3000_library" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 25 25 0 1 0 N
+X +VID 1 0 -100 100 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# Resistor_Network_-_|Isolated_8_Pin-Amiga_3000_library
+#
+DEF Resistor_Network_-_|Isolated_8_Pin-Amiga_3000_library RP 0 0 Y N 1 F N
+F0 "RP" -500 0 50 V V C CNN
+F1 "Resistor_Network_-_|Isolated_8_Pin-Amiga_3000_library" 500 0 50 V V C CNN
+F2 "Resistor_THT:R_Array_SIP8" 575 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ R?Array?SIP*
+$ENDFPLIST
+DRAW
+S -450 100 -50 -150 0 1 0 N
+S -150 50 -150 50 0 1 0 N
+S -50 0 -50 0 0 1 0 N
+P 2 0 1 0 -400 -98 -400 -150 N
+P 2 0 1 0 -400 50 -400 100 N
+P 2 0 1 0 -300 -98 -300 -150 N
+P 2 0 1 0 -300 50 -300 100 N
+P 2 0 1 0 -200 -98 -200 -150 N
+P 2 0 1 0 -200 50 -200 100 N
+P 2 0 1 0 -100 50 -100 100 N
+P 8 0 1 0 -400 58 -375 45 -425 19 -375 -7 -425 -33 -375 -59 -425 -85 -400 -98 N
+P 8 0 1 0 -300 58 -275 45 -325 19 -275 -7 -325 -33 -275 -59 -325 -85 -300 -98 N
+P 8 0 1 0 -200 58 -175 45 -225 19 -175 -7 -225 -33 -175 -59 -225 -85 -200 -98 N
+P 8 0 1 0 -100 58 -75 45 -125 19 -75 -7 -125 -33 -75 -59 -125 -85 -100 -98 N
+P 2 1 1 0 -100 -98 -100 -150 N
+X R1 1 -400 -200 50 U 50 50 1 1 P
+X R1 2 -400 200 100 D 50 50 1 1 P
+X R2 3 -300 -200 50 U 50 50 1 1 P
+X R2 4 -300 200 100 D 50 50 1 1 P
+X R3 5 -200 -200 50 U 50 50 1 1 P
+X R3 6 -200 200 100 D 50 50 1 1 P
+X R4 7 -100 -200 50 U 50 50 1 1 P
+X common 8 -100 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

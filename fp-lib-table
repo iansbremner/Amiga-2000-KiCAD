@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name A3000)(type KiCad)(uri "E:/schematics/Amiga 300/A3000/A3000.pretty")(options "")(descr ""))
+  (lib (name "Amiga 2000R6")(type KiCad)(uri "${KIPRJMOD}/Amiga 2000R6.pretty")(options "")(descr ""))
+)

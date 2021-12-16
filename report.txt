@@ -1,0 +1,719 @@
+Info: Processing component “R603:/62A29A17/615559C7:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R806:/760344E9/7606E9AC:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R804:/760344E9/760B4EAE:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R803:/760344E9/760F1DFB:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R802:/628F0B9F/628FAA14:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R801:/760344E9/760CDF96:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R800:/760344E9/760537A2:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R605:/62A29A17/620518DD:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R604:/62A29A17/620518E3:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R807:/760344E9/760708C5:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R602:/61E1DD98/61F7386E:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R601:/62A29A17/615539EA:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R500:/6218D4C8/626B1B59:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R312:/62A29A17/6F66F965:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R311:/62A29A17/6F86D269:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R310:/61E1DD98/61799C6A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R309:/61E1DD98/6275DBD2:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R308:/628F0B9F/61D24F03:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R914:/61E1DD98/620C26C1:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “RP201:/61570A0D/61CB025B:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP200:/61A22CF8/61A6C412:Resistor_THT:R_Array_SIP11”.
+Info: Processing component “RP102:/615500F5/6156A3F4:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP101:/614E4780/614EB8A5:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP100:/614E4780/6150D39B:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RN802:/628F0B9F/6290BEF5:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R1000:/614E4780/614F3C35:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R917:/614E4780/614F1BAD:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R307:/628F0B9F/61D233B8:Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm”.
+Info: Processing component “R910:/615500F5/61561999:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R905:/760344E9/76080661:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R904:/760344E9/7606AD6A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R902:/628F0B9F/61D22929:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R901:/62A29A17/6360134E:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R895:/628F0B9F/629060EF:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “BT800:/760344E9/760F0663:Amiga 2000R6:Battery”.
+Info: Processing component “CN605:/62A29A17/62A3E3A2:Amiga 2000R6:Zorro-II”.
+Info: Processing component “R213:/61A22CF8/621E3D04:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R212:/61570A0D/61C31D12:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R211:/61570A0D/61C025EC:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R210:/61A22CF8/622C8987:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “CN601:/62A29A17/62A5EB37:Amiga 2000R6:Zorro-II”.
+Info: Processing component “CN602:/62A29A17/62A550B6:Amiga 2000R6:Zorro-II”.
+Info: Processing component “CN603:/62A29A17/62A550B0:Amiga 2000R6:Zorro-II”.
+Info: Processing component “CN604:/62A29A17/62A43D00:Amiga 2000R6:Zorro-II”.
+Info: Processing component “R214:/61A22CF8/62241FEB:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “CN700:/7356285A/7356E75F:Connector_PinHeader_2.54mm:PinHeader_2x31_P2.54mm_Vertical”.
+Info: Processing component “CN701:/7356285A/73587088:Connector_PinHeader_2.54mm:PinHeader_2x31_P2.54mm_Vertical”.
+Info: Processing component “CN702:/7356285A/7365CA93:Connector_PinHeader_2.54mm:PinHeader_2x31_P2.54mm_Vertical”.
+Info: Processing component “CN703:/7356285A/7367F70F:Connector_PinHeader_2.54mm:PinHeader_2x31_P2.54mm_Vertical”.
+Info: Processing component “CN704:/7356285A/735CDCB7:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “CN705:/7356285A/735CFD51:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “CN706:/7356285A/7365CAD7:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “R240:/61A22CF8/61F32C90:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R306:/628F0B9F/619DE41D:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R305:/628F0B9F/618D88F7:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R302:/628F0B9F/619F1231:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R300:/61E1DD98/627B1C56:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R244:/61A22CF8/620521FE:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R243:/61A22CF8/620521EA:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R242:/61A22CF8/61F7CD0E:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R241:/61A22CF8/61F7CD08:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “RP203:/61570A0D/62134E5B:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “R234:/61A22CF8/61E05553:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R233:/61A22CF8/61DE0FEC:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R232:/61A22CF8/61C9A42A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R231:/61A22CF8/61C99206:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R230:/61A22CF8/61D0CEB5:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R216:/61570A0D/61C03D9A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R215:/61570A0D/62B7EB14:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “U108:/615500F5/61B32B7D:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U206:/61570A0D/6157B5F2:Package_DIP:DIP-20_W7.62mm”.
+Info: Change symbol path “CN400:” to “/64587A59/64588344”.
+Info: Processing component “U205:/61570A0D/617F7091:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U204:/61A22CF8/61C68329:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U203:/61E1DD98/617AB72B:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U202:/61A22CF8/61A5A507:Package_DIP:DIP-16_W7.62mm”.
+Info: Processing component “U201:/61570A0D/6157616A:Package_DIP:DIP-48_W15.24mm”.
+Info: Processing component “U200:/61A22CF8/61A37E52:Package_DIP:DIP-48_W15.24mm”.
+Info: Processing component “U300:/61E1DD98/61E1DF61:Package_DIP:DIP-40_W15.24mm”.
+Info: Processing component “U107:/615500F5/61551F31:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U106:/614E4780/615428B6:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U105:/614E4780/61534EED:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U104:/614E4780/61533D41:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U103:/614E4780/61531071:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U102:/615500F5/61551471:Package_DIP:DIP-48_W15.24mm”.
+Info: Processing component “U101:/615500F5/6156C12D:Package_LCC:PLCC-84_THT-Socket”.
+Info: Processing component “U100:/614E4780/614E4883:Package_DIP:DIP-64_W25.4mm_Socket”.
+Info: Processing component “U500:/6218D4C8/62701BF6:Package_DIP:DIP-40_W15.24mm”.
+Info: Processing component “U508:/6218D4C8/6222A368:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U507:/6218D4C8/6222A362:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U506:/6218D4C8/6222A35C:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U505:/6218D4C8/6222A356:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U504:/6218D4C8/622240F5:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U503:/6218D4C8/622240EF:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U502:/6218D4C8/6221C657:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U501:/6218D4C8/6221388D:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “CN600:/6391F4DA/63926766:Amiga 2000R6:CPU Slot”.
+Info: Processing component “U305:/628F0B9F/6298905A:Package_DIP:DIP-14_W10.16mm”.
+Info: Processing component “U304:/628F0B9F/629824FA:Package_DIP:DIP-14_W10.16mm”.
+Info: Processing component “U303:/614E4780/61503766:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U302:/628F0B9F/6293F4D6:Package_DIP:DIP-16_W7.62mm”.
+Info: Processing component “CN306:/628F0B9F/61DE334B:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “CN400:/64587A59/64588344:Amiga 2000R6:Power”.
+Info: Processing component “U301:/628F0B9F/6291F599:Package_DIP:DIP-40_W15.24mm”.
+Info: Processing component “RP503:/6218D4C8/6220DCB0:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP701:/7356285A/75408F4E:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP700:/7356285A/74B7B7BA:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP607:/62A29A17/72D0D0D8:Resistor_THT:R_Array_SIP6”.
+Info: Processing component “RP605:/62A29A17/6154A45F:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP604:/62A29A17/62190ECB:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP603:/62A29A17/625145ED:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP602:/62A29A17/62566F5A:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP601:/62A29A17/625B45D5:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP702:/7356285A/75500EB6:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP502:/6218D4C8/621F5546:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP501:/6218D4C8/621EB34B:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP500:/6218D4C8/621E4C11:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP301:/61E1DD98/61AB0B08:Resistor_THT:R_Array_SIP6”.
+Info: Processing component “RP300:/61E1DD98/61E491FB:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP205:/61570A0D/616542A0:Resistor_THT:R_Array_SIP6”.
+Info: Processing component “RP204:/61A22CF8/61A6F0F1:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP901:/6391F4DA/6413AF7E:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP908:/6391F4DA/63A8B00A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “RP907:/615500F5/61727627:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP906:/61570A0D/61579E71:Resistor_THT:R_Array_SIP6”.
+Info: Change symbol path “CN600:” to “/6391F4DA/63926766”.
+Info: Processing component “RP905:/61570A0D/615783F6:Resistor_THT:R_Array_SIP6”.
+Info: Processing component “RP904:/61570A0D/6157AAC6:Resistor_THT:R_Array_SIP6”.
+Info: Processing component “RP903:/6391F4DA/63A8C9D3:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “RP902:/615500F5/615A1C26:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “CN707:/7356285A/7367F753:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “RP900:/6391F4DA/640B276A:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP802:/628F0B9F/628F7E18:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP801:/760344E9/76123176:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP800:/760344E9/76043CB3:Resistor_THT:R_Array_SIP8”.
+Info: Processing component “RP705:/7356285A/74691721:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP704:/7356285A/75BEB8A1:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “RP703:/7356285A/75D8A6F4:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “FB401:/61A22CF8/61E3B139:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB217:/61570A0D/61A353AA:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB218:/61570A0D/61A64504:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB219:/61570A0D/61A70109:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB220:/61570A0D/61A7BCDC:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB221:/61570A0D/61A878FB:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB301:/61E1DD98/62084783:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB302:/61E1DD98/6201F6D2:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB303:/61E1DD98/6203B7DA:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB216:/61570A0D/61A349B0:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB900:/61570A0D/61A411DB:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB901:/61570A0D/61A4CD72:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB902:/61570A0D/61A589A9:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB903:/61570A0D/61A93747:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB904:/64587A59/61A0D8D8:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB906:/64587A59/61A0FBDE:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB907:/615500F5/6156FCCD:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “HY200:/61570A0D/615A3E35:Connector_PinSocket_2.54mm:PinSocket_1x22_P2.54mm_Vertical”.
+Info: Processing component “F1:/61A22CF8/627D6C36:Fuse:Fuse_Bourns_MF-RG400”.
+Info: Processing component “EMI334:/628F0B9F/6189A0AE:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI335:/61E1DD98/61EAA1EF:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI336:/61E1DD98/61EAA1F5:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI337:/61E1DD98/61EAA1FB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI338:/61E1DD98/61EAA201:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI339:/61E1DD98/615BE76C:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI340:/61E1DD98/61664B2C:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI341:/61E1DD98/61658939:Amiga 2000R6:EMI Filter”.
+Info: Processing component “J1:/62A29A17/6153010B:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “F2:/628F0B9F/61997C2C:Fuse:Fuse_Bourns_MF-RG400”.
+Info: Processing component “F3:/61E1DD98/61816B34:Fuse:Fuse_Bourns_MF-RG400”.
+Info: Processing component “F4:/61E1DD98/618181BF:Fuse:Fuse_Bourns_MF-RG400”.
+Info: Processing component “F5:/61570A0D/6241849D:Fuse:Fuse_Bourns_MF-RG400”.
+Info: Processing component “FB101:/615500F5/61A08B18:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB102:/615500F5/61553C03:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “FB215:/61A22CF8/627DB4AD:Amiga 2000R6:Ferrite Bead”.
+Info: Processing component “R202:/61A22CF8/61EC1AC2:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R104:/614E4780/6150B4DB:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R105:/615500F5/6155A359:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R106:/615500F5/6155F253:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R109:/615500F5/61A317FD:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R110:/615500F5/61A4496D:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R111:/614E4780/615213A6:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R200:/61A22CF8/61A4C151:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R201:/61E1DD98/621AB461:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R101:/615500F5/618340CD:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R203:/61570A0D/6223FBEF:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R204:/61A22CF8/61EEE3CA:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R205:/61A22CF8/61CED83A:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R206:/61A22CF8/6218835F:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R207:/61A22CF8/625138AB:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R208:/61A22CF8/62535C0F:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “R209:/61A22CF8/622C67B5:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “M6:/64587A59/619A2EB0:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “J2:/62A29A17/61528642:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “J101:/615500F5/61616823:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “J102:/615500F5/6183571E:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+Info: Processing component “J200:/61A22CF8/61B748BC:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “J300:/61E1DD98/61E35AE1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+Info: Processing component “J301:/61E1DD98/62886BC7:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+Info: Processing component “J500:/6218D4C8/626B4008:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+Info: Processing component “J900:/615500F5/61563182:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+Info: Processing component “EMI333:/628F0B9F/617A92FD:Amiga 2000R6:EMI Filter”.
+Info: Processing component “Q200:/61A22CF8/61EEE3C0:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “Q201:/61A22CF8/61C980A9:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “Q202:/61A22CF8/621C5690:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “Q300:/628F0B9F/618D6769:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “Q301:/61E1DD98/626E193C:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “Q302:/628F0B9F/61D09E83:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “R30:/61E1DD98/61B60A53:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal”.
+Info: Processing component “EMI235:/61A22CF8/61B24F8C:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI210:/61570A0D/623F72D8:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI211:/61570A0D/624E5CD9:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI229:/61570A0D/62BB2C77:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI230:/61A22CF8/61A87110:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI231:/61A22CF8/61A88823:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI232:/61A22CF8/61A8B2FA:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI233:/61A22CF8/61A8DCC3:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI234:/61A22CF8/61B24F86:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI209:/61570A0D/623F88DA:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI236:/61A22CF8/61B24F92:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI237:/61A22CF8/61B24F98:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI238:/61A22CF8/61ACBAEA:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI239:/61A22CF8/61AD1F7E:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI240:/61A22CF8/61AD61CB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI241:/61A22CF8/61B24FBB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI242:/61A22CF8/61B24FC2:Amiga 2000R6:EMI Filter”.
+Info: Processing component “E3:/64587A59/6195B397:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “D300:/628F0B9F/618E8C94:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+Info: Processing component “D400:/64587A59/645B8584:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal”.
+Info: Processing component “D401:/64587A59/645C197F:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal”.
+Info: Processing component “D800:/760344E9/760C3999:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+Info: Processing component “D801:/760344E9/760D84F6:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+Info: Processing component “D802:/628F0B9F/6290669D:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+Info: Processing component “E1:/64587A59/6194C77C:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “E2:/64587A59/6194EFD8:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “EMI243:/61A22CF8/61B24FC8:Amiga 2000R6:EMI Filter”.
+Info: Processing component “E4:/64587A59/619672FC:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “E5:/64587A59/619731CB:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “EMI200:/61570A0D/62B83031:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI201:/61570A0D/62877589:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI206:/61570A0D/61B0E014:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI207:/61570A0D/61B0EE29:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI208:/61570A0D/623B506A:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI325:/628F0B9F/615318CB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI317:/61E1DD98/6158F9B8:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI318:/61E1DD98/616C4F24:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI319:/61E1DD98/616C4F2A:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI320:/61E1DD98/6169E9CD:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI321:/61E1DD98/6169D182:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI322:/61E1DD98/615F9A65:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI323:/61E1DD98/616EAAF9:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI324:/61E1DD98/615C98F6:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI316:/61E1DD98/61592DBC:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI326:/628F0B9F/615352B2:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI327:/628F0B9F/61555DCC:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI328:/628F0B9F/615DD77D:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI329:/628F0B9F/615D4202:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI330:/628F0B9F/615C341D:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI331:/628F0B9F/615B1FA5:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI332:/628F0B9F/6188CCDF:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI308:/61E1DD98/61EA512B:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI300:/61E1DD98/61F104AB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI301:/61E1DD98/61E8E7BE:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI302:/61E1DD98/61E9532D:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI303:/61E1DD98/61E97AD8:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI304:/61E1DD98/61E9A2E9:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI305:/61E1DD98/61E9CDBB:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI306:/61E1DD98/61E9F75B:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI307:/61E1DD98/61EA22E4:Amiga 2000R6:EMI Filter”.
+Info: Processing component “U540:/6218D4C8/6219280A:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “EMI309:/61E1DD98/61EB8A32:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI310:/61E1DD98/61F0B6E4:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI311:/61E1DD98/6162916F:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI312:/61E1DD98/616112CA:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI313:/61E1DD98/615D5698:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI314:/61E1DD98/615B36F4:Amiga 2000R6:EMI Filter”.
+Info: Processing component “EMI315:/61E1DD98/615A88A8:Amiga 2000R6:EMI Filter”.
+Info: Processing component “C506:/64587A59/6166D52E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C421:/64587A59/6458D92B:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C422:/64587A59/6458E00B:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C500:/6218D4C8/62853BBD:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C501:/64587A59/6164B23A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C502:/64587A59/6164DA8C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C503:/64587A59/61654048:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C504:/64587A59/6166009D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C505:/64587A59/6166D522:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C420:/64587A59/6458CE13:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C507:/64587A59/6166D53A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C509:/64587A59/6166D546:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C540:/6218D4C8/62856F8D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C541:/6218D4C8/628756A3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C600:/6391F4DA/64304387:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C601:/6391F4DA/64306135:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C602:/6391F4DA/643288A3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C603:/6391F4DA/644B8270:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C412:/64587A59/645B3CE6:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C404:/64587A59/6458C0FF:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C405:/64587A59/6458C9A0:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C406:/64587A59/645A1607:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C407:/64587A59/645A5423:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C408:/64587A59/645A7097:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C409:/64587A59/645A91CF:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C410:/64587A59/645ABD96:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C411:/64587A59/645ADECD:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C604:/6391F4DA/644B827C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C413:/64587A59/645AFB7E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C414:/64587A59/645B199C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C415:/615500F5/61AABC30:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C416:/62A29A17/6FD68D0F:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C417:/62A29A17/70CC83FE:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C418:/62A29A17/70DD4600:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C419:/62A29A17/70EE0EBA:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C650:/62A29A17/628152F5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C633:/62A29A17/62C2A6F4:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C635:/62A29A17/62BA58D9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C637:/62A29A17/62B218F9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C639:/62A29A17/62A749F3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C641:/62A29A17/629F7623:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C645:/62A29A17/6297B2B3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C647:/62A29A17/629020F5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C649:/62A29A17/6283BA75:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C632:/62A29A17/62CB3A86:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C651:/62A29A17/627A16C8:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C652:/62A29A17/627307DB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C654:/62A29A17/626BDA84:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C655:/62A29A17/624A9E55:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C657:/62A29A17/6233DC8D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C658:/62A29A17/6231E4C2:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C659:/62A29A17/622FEE53:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C624:/62A29A17/630E68A6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C605:/6391F4DA/644B8288:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C607:/61E1DD98/62E354B7:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C617:/62A29A17/6343A479:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C619:/62A29A17/634039C1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C620:/62A29A17/633CCD12:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C621:/62A29A17/63181553:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C622:/62A29A17/6314DCF7:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C623:/62A29A17/6311A2CC:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C403:/64587A59/6458AD4E:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C625:/62A29A17/630B3461:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C626:/62A29A17/63019BFF:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C627:/62A29A17/62E5A46E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C628:/62A29A17/62E2B0A1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C629:/62A29A17/62DFB983:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C630:/62A29A17/62DCC560:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C631:/62A29A17/62D3F81D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C218:/61A22CF8/62876302:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C210:/61A22CF8/61BA885B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C211:/61A22CF8/61BA9EB3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C212:/61A22CF8/61BB480B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C213:/61A22CF8/61BBF04E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C214:/61570A0D/6206B28A:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C215:/61570A0D/6254E1CB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C216:/61570A0D/6249C2AF:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C217:/61570A0D/624C1240:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C206:/61570A0D/62A0FD6C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C219:/61A22CF8/622E6E9E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C220:/61A22CF8/6244E4D6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C221:/61A22CF8/6246E83A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C222:/61A22CF8/623CBF43:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C223:/61A22CF8/623EC7E2:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C224:/61A22CF8/622E8CE8:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C225:/61A22CF8/61A49BC6:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C108:/615500F5/61B35858:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C100:/614E4780/6184091F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C101:/615500F5/61A845C6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C102:/615500F5/61AAED6B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C103:/614E4780/618438AB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C104:/614E4780/61854A05:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C105:/614E4780/61868D91:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C106:/614E4780/61868D9D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C107:/615500F5/61AC422E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C226:/61570A0D/6206D5DB:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C110:/615500F5/619E3700:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C200:/61A22CF8/61A47EEE:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C201:/61570A0D/629E0ACA:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C202:/61A22CF8/62286C43:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C203:/61E1DD98/62DAA15E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C204:/61A22CF8/6214D982:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C205:/61570A0D/629E3223:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C318:/628F0B9F/6186D428:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C310:/628F0B9F/616B126F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C311:/628F0B9F/616B2EC5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C312:/628F0B9F/616BD39B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C313:/628F0B9F/6182B4FB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C314:/628F0B9F/61B19CAB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C315:/628F0B9F/61AF51AC:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C316:/628F0B9F/61B07745:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C317:/628F0B9F/618AB009:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C306:/628F0B9F/618AAFFA:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C320:/628F0B9F/62A31391:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C321:/628F0B9F/61EB4CAA:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C322:/61E1DD98/61A1978C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C323:/61E1DD98/61A1C446:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C400:/64587A59/645892F3:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C401:/64587A59/64589821:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C402:/64587A59/6458A52C:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C243:/61A22CF8/620521E3:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C230:/61A22CF8/61CFD269:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C231:/61A22CF8/61DAA2E6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C232:/61A22CF8/61D78B04:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C233:/61A22CF8/61DCDDF4:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C234:/61A22CF8/61E04077:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C240:/61A22CF8/61F32C8A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C241:/61A22CF8/61F7CD16:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C242:/61A22CF8/61FAE6A9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C660:/62A29A17/622DF91B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C244:/61A22CF8/620521F8:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C300:/61E1DD98/62DA75C8:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C301:/628F0B9F/61F411BC:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C302:/61E1DD98/62DD8875:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C303:/61E1DD98/62E06EBB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C304:/628F0B9F/61838605:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C305:/628F0B9F/61F62468:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C920:/760344E9/76085E14:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C909:/61E1DD98/61E386CA:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C910:/64587A59/6458F977:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C913:/61570A0D/61E7F8C3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C914:/61570A0D/620FF618:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C916:/61E1DD98/61FEE348:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C917:/62A29A17/6363B0C0:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C918:/615500F5/61AD9454:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C919:/628F0B9F/61D9C95F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C908:/615500F5/618F569B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “CN200:/61A22CF8/61A844A4:Amiga 2000R6:DB9-Male”.
+Info: Processing component “CN201:/61A22CF8/61B24F80:Amiga 2000R6:DB9-Male”.
+Info: Processing component “CN202:/61570A0D/61A281A1:Amiga 2000R6:DB23-Male”.
+Info: Processing component “CN203:/61570A0D/618440D9:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “CN204:/61A22CF8/61DF2D98:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal”.
+Info: Processing component “CN205:/61A22CF8/620521F1:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal”.
+Info: Processing component “CN206:/61570A0D/62372FE8:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal”.
+Info: Processing component “CN207:/61570A0D/616878E5:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical”.
+Info: Processing component “C900:/61A22CF8/62491AE1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C804:/760344E9/7626F6A8:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C805:/628F0B9F/6200D88E:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C810:/760344E9/76109192:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C811:/760344E9/760E00C4:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C812:/760344E9/760E82A8:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C813:/628F0B9F/628FB326:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C814:/628F0B9F/62903FB3:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C815:/628F0B9F/6291850D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “CN300:/61E1DD98/62024A92:Amiga 2000R6:Keboard”.
+Info: Processing component “C901:/61A22CF8/624D26D6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C902:/62A29A17/636750F1:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C903:/64587A59/6458F141:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C904:/760344E9/7608710A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C905:/615500F5/615599F6:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C906:/64587A59/6458F6C1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C907:/615500F5/618F4B47:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “U606:/62A29A17/71CF086B:Package_DIP:DIP-16_W7.62mm”.
+Info: Processing component “U900:/615500F5/6156556A:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U805:/628F0B9F/628F69AA:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U804:/760344E9/76142713:Package_DIP:DIP-16_W10.16mm”.
+Info: Processing component “U803:/760344E9/761378F7:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “U802:/760344E9/76125574:Package_DIP:DIP-16_W10.16mm”.
+Info: Processing component “U801:/760344E9/760401B8:Package_DIP:DIP-18_W7.62mm”.
+Info: Processing component “U800:/760344E9/7603B4F0:Package_DIP:DIP-48_W15.24mm”.
+Info: Processing component “U607:/61E1DD98/61F819B1:Package_DIP:DIP-14_W7.62mm”.
+Info: Processing component “V1:/64587A59/6197F9A0:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “U605:/6391F4DA/63942DB4:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U604:/6391F4DA/63B6DD6C:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U603:/6391F4DA/63B7B2F2:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U602:/6391F4DA/639EB3C4:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U601:/6391F4DA/63A17ED9:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U600:/6391F4DA/63A1EA9A:Package_DIP:DIP-20_W7.62mm”.
+Info: Processing component “U541:/6218D4C8/62194AE8:Package_DIP:DIP-20_W7.62mm”.
+Info: Change symbol path “CN305:” to “/628F0B9F/61583A13”.
+Info: Processing component “CN301:/61E1DD98/61E91911:Amiga 2000R6:DB23-Female”.
+Info: Processing component “CN302:/61E1DD98/620CE8AF:Amiga 2000R6:DB23-Male”.
+Info: Processing component “CN303:/61E1DD98/61848B73:Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical”.
+Info: Processing component “CN304:/628F0B9F/62A2A3DB:Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical”.
+Info: Processing component “CN305:/628F0B9F/61583A13:Amiga 2000R6:DB25-Male”.
+Info: Processing component “Y800:/760344E9/76108428:A3000:Clock_crystal”.
+Info: Processing component “XU1:/628F0B9F/628FEF8C:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Processing component “XRP2:/6391F4DA/6407C9D0:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “C803:/760344E9/76265380:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “XRP1:/6391F4DA/64042A6B:Resistor_THT:R_Array_SIP10”.
+Info: Processing component “XR1:/614E4780/615258C7:Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm”.
+Info: Processing component “XC1:/614E4780/6152775A:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “X1:/615500F5/619CFE8B:Oscillator:Oscillator_DIP-14”.
+Info: Processing component “VC800:/760344E9/7610A004:A3000:Trimmer Capacitor”.
+Info: Processing component “V3:/64587A59/61997299:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “V2:/64587A59/6198B51D:Amiga 2000R6:Mounting_Hole”.
+Info: Processing component “C717:/7356285A/749E9199:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C702:/7356285A/743FD55B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C703:/7356285A/743FF1FB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C704:/7356285A/74400432:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C705:/7356285A/744A93D7:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C711:/7356285A/74954528:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C713:/7356285A/749872FE:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C714:/7356285A/749B85C3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C716:/7356285A/749B85C9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C701:/7356285A/744A9661:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm”.
+Info: Processing component “C719:/7356285A/749E919F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C720:/7356285A/74A19C31:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C722:/7356285A/74A19C37:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C726:/7356285A/74D4F6C1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C728:/7356285A/74DF4627:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C730:/7356285A/74DF462D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C732:/7356285A/74DF4633:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C669:/62A29A17/61F29977:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C661:/62A29A17/622C0661:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C662:/62A29A17/62263699:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C663:/62A29A17/621CBC75:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C664:/62A29A17/621AEDFA:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C665:/62A29A17/620F99D2:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C666:/62A29A17/620DE311:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C667:/62A29A17/61FAD0ED:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C668:/62A29A17/61F43DE3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C734:/7356285A/74DF4639:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C670:/62A29A17/61F0F984:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C671:/62A29A17/61EC2612:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C672:/62A29A17/61E8E7A9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C673:/62A29A17/61E28BB5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C674:/62A29A17/61DDD218:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C678:/62A29A17/6153E064:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C700:/7356285A/744AB84D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C789:/7356285A/75744DB1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C770:/7356285A/75667DD7:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C776:/7356285A/75744D87:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C778:/7356285A/75744D8D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C780:/7356285A/75744D93:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C782:/7356285A/75744D99:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C784:/7356285A/75744D9F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C786:/7356285A/75744DA5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C787:/7356285A/75744DAB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C768:/7356285A/75667DD1:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C790:/7356285A/74F56280:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C791:/7356285A/74F56286:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C793:/7356285A/74F5628C:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C794:/7356285A/75667DAD:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C796:/7356285A/75667DB3:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C800:/760344E9/7624E40D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C802:/760344E9/76258B98:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C752:/7356285A/74EE6E75:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C736:/7356285A/74DF463F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C738:/7356285A/74DF4645:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C740:/7356285A/74DF464B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C742:/7356285A/74DF4651:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C744:/7356285A/74EE6E5D:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C746:/7356285A/74EE6E63:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C748:/7356285A/74EE6E69:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C750:/7356285A/74EE6E6F:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C754:/7356285A/74EE6E7B:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C756:/7356285A/74EE6E81:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C758:/7356285A/74EE6E87:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C760:/7356285A/75667DB9:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C762:/7356285A/75667DBF:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C764:/7356285A/75667DC5:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Info: Processing component “C766:/7356285A/75667DCB:Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal”.
+Connect CN600 pin 31 to FC0.
+Connect CN400 pin 13 to -5V.
+Connect CN400 pin 5 to Earth.
+Connect CN400 pin 6 to Earth.
+Connect CN400 pin 7 to Earth.
+Connect CN400 pin 8 to Earth.
+Connect CN400 pin 9 to +12V.
+Connect CN400 pin 10 to Net-(CN400-Pad10).
+Add net Net-(CN400-Pad10).
+Connect CN400 pin 11 to -12V.
+Connect CN400 pin 12 to +5V_USER.
+Connect CN400 pin 4 to +5V.
+Connect CN400 pin 14 to TICK.
+Change CN400 value from Power to POWER_CONN.
+Change REF** reference to CN400.
+Add CN400 (footprint “Amiga 2000R6:Power”).
+Connect CN305 pin 23 to Net-(CN305-Pad23).
+Add net Net-(CN305-Pad23).
+Connect CN305 pin 26 to Earth.
+Connect CN305 pin 22 to Net-(CN305-Pad22).
+Connect CN600 pin 7 to V7M.
+Connect CN600 pin 16 to _VC1.
+Connect CN600 pin 8 to -5V.
+Connect CN600 pin 15 to VCDAC.
+Connect CN600 pin 14 to _VC3.
+Connect CN600 pin 13 to Earth.
+Connect CN600 pin 12 to Earth.
+Connect CN600 pin 11 to _COPCFG.
+Connect CN600 pin 10 to +12V.
+Connect CN305 pin 18 to Net-(C306-Pad1).
+Connect CN600 pin 5 to +5V.
+Connect CN600 pin 4 to Earth.
+Change CN600 value from CPU Slot to CPU_Slot.
+Change REF** reference to CN600.
+Add CN600 (footprint “Amiga 2000R6:CPU Slot”).
+Connect CN400 pin 1 to +5V.
+Connect CN400 pin 2 to +5V.
+Connect CN400 pin 3 to +5V.
+Connect CN305 pin 21 to Net-(CN305-Pad21).
+Add net Net-(CN305-Pad15).
+Connect CN305 pin 5 to Net-(CN305-Pad5).
+Connect CN305 pin 4 to Net-(CN305-Pad4).
+Connect CN305 pin 10 to Net-(CN305-Pad10).
+Connect CN305 pin 14 to Net-(CN305-Pad14).
+Add net Net-(CN305-Pad14).
+Connect CN305 pin 24 to Net-(CN305-Pad24).
+Add net Net-(CN305-Pad24).
+Connect CN305 pin 7 to Earth.
+Connect CN305 pin 15 to Net-(CN305-Pad15).
+Add net Net-(CN305-Pad21).
+Connect CN305 pin 13 to Net-(CN305-Pad13).
+Add net Net-(CN305-Pad13).
+Connect CN305 pin 2 to Net-(CN305-Pad2).
+Connect CN305 pin 1 to Earth.
+Change CN305 value from DB25-Male to DB25_Male.
+Change REF** reference to CN305.
+Add CN305 (footprint “Amiga 2000R6:DB25-Male”).
+Add net Net-(CN305-Pad16).
+Connect CN305 pin 27 to Earth.
+Connect CN305 pin 20 to Net-(CN305-Pad20).
+Connect CN305 pin 11 to Net-(C304-Pad1).
+Connect CN305 pin 12 to Net-(CN305-Pad12).
+Add net Net-(CN305-Pad12).
+Connect CN305 pin 19 to Net-(CN305-Pad19).
+Add net Net-(CN305-Pad19).
+Connect CN305 pin 16 to Net-(CN305-Pad16).
+Connect CN600 pin 84 to D6.
+Connect CN305 pin 3 to Net-(CN305-Pad3).
+Connect CN305 pin 9 to Net-(CN305-Pad9).
+Connect CN305 pin 17 to Net-(CN305-Pad17).
+Add net Net-(CN305-Pad17).
+Connect CN305 pin 25 to Net-(CN305-Pad25).
+Add net Net-(CN305-Pad25).
+Connect CN305 pin 6 to Net-(CN305-Pad6).
+Connect CN305 pin 8 to Net-(CN305-Pad8).
+Connect CN600 pin 53 to _RST.
+Connect CN600 pin 64 to _CBG.
+Connect CN600 pin 38 to A12.
+Connect CN600 pin 42 to _IPL1.
+Connect CN600 pin 41 to A14.
+Connect CN600 pin 63 to D15.
+Connect CN600 pin 56 to A20.
+Connect CN600 pin 62 to _BGACK.
+Connect CN600 pin 59 to A23.
+Connect CN600 pin 58 to A22.
+Connect CN600 pin 65 to D14.
+Connect CN600 pin 52 to A18.
+Connect CN600 pin 51 to _VMA.
+Connect CN600 pin 50 to E.
+Connect CN600 pin 48 to _VPA.
+Connect CN600 pin 47 to A17.
+Connect CN600 pin 40 to _IPL0.
+Connect CN600 pin 22 to _INT6.
+Connect CN600 pin 36 to A11.
+Connect CN600 pin 60 to _CBR.
+Connect CN600 pin 86 to D5.
+Connect CN600 pin 85 to Earth.
+Connect CN600 pin 75 to D0.
+Connect CN600 pin 74 to _AS.
+Connect CN600 pin 72 to _UDS.
+Connect CN600 pin 71 to D11.
+Connect CN600 pin 61 to Earth.
+Connect CN600 pin 66 to _DTACK.
+Connect CN600 pin 6 to +5V.
+Connect CN600 pin 54 to A19.
+Connect CN600 pin 46 to _BEER.
+Connect CN600 pin 49 to Earth.
+Connect CN600 pin 28 to A7.
+Connect CN600 pin 70 to _LDS.
+Connect CN600 pin 69 to D12.
+Connect CN600 pin 68 to R_W.
+Connect CN600 pin 67 to D13.
+Connect CN600 pin 73 to Earth.
+Connect CN600 pin 81 to D3.
+Connect CN600 pin 45 to A16.
+Connect CN600 pin 79 to D2.
+Connect CN600 pin 78 to D9.
+Connect CN600 pin 29 to A1.
+Connect CN600 pin 21 to A5.
+Connect CN600 pin 77 to D1.
+Connect CN600 pin 76 to D10.
+Connect CN600 pin 23 to A6.
+Connect CN600 pin 55 to _HLT.
+Connect CN600 pin 2 to Earth.
+Connect CN600 pin 1 to Earth.
+Connect CN600 pin 9 to 28M.
+Connect CN600 pin 19 to _INT2.
+Connect CN600 pin 18 to XRDY.
+Connect CN600 pin 17 to _OVR.
+Connect CN600 pin 3 to Earth.
+Connect CN600 pin 80 to D8.
+Connect CN600 pin 82 to D7.
+Connect CN600 pin 34 to A10.
+Connect CN600 pin 37 to Earth.
+Connect CN600 pin 27 to A2.
+Connect CN600 pin 24 to A4.
+Connect CN600 pin 43 to A15.
+Connect CN600 pin 32 to A9.
+Connect CN600 pin 44 to _IPL2.
+Connect CN600 pin 33 to FC1.
+Connect CN600 pin 25 to Earth.
+Connect CN600 pin 35 to FC2.
+Connect CN600 pin 39 to A13.
+Connect CN600 pin 30 to A8.
+Connect CN600 pin 20 to _BOSS.
+Connect CN600 pin 83 to D4.
+Connect CN600 pin 57 to A21.
+Connect CN600 pin 26 to A3.
+Error: RP903 pad 4 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP903 pad 3 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP908 pad 3 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP908 pad 4 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP908 pad 5 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP908 pad 6 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: U102 pad ~ not found in Package_DIP:DIP-48_W15.24mm.
+Error: U801 pad GND not found in Package_DIP:DIP-18_W7.62mm.
+Error: X1 pad 2 not found in Oscillator:Oscillator_DIP-14.
+Error: X1 pad 4 not found in Oscillator:Oscillator_DIP-14.
+Error: X1 pad 3 not found in Oscillator:Oscillator_DIP-14.
+Error: RP903 pad 5 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RP903 pad 6 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RN802 pad 7 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: RN802 pad 8 not found in Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.
+Error: CN301 pad 27 not found in Amiga 2000R6:DB23-Female.
+Error: CN301 pad 26 not found in Amiga 2000R6:DB23-Female.
+Error: CN206 pad 3 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
+Error: CN206 pad 5 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
+Error: CN205 pad 3 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
+Error: CN205 pad 5 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
+Error: CN204 pad 3 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
+Error: CN204 pad 5 not found in Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal.
